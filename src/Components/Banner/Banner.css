@@ -1,0 +1,15 @@
+.bg-image {
+  background-image: url("https://i.ibb.co/TKTcWcm/Clothing.png"); /* Replace 'your-image.jpg' with your image file */
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.overlay {
+  background: rgba(
+    255,
+    255,
+    255,
+    0.744
+  ); /* White overlay with some transparency */
+}

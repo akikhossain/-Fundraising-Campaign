@@ -1,0 +1,134 @@
+[
+  {
+    "picture": "https://i.ibb.co/GWjRN6d/Health.png",
+    "title": "Clean water for children",
+    "category": "Health",
+    "category_bg": "#7fa8ff",
+    "card_bg": "#ccdcff",
+    "text_bg": "#0052ff",
+    "description": "There are many things that can be done to ensure that all people have access to quality healthcare. Governments can invest in public health systems, provide financial assistance for medical expenses, and make sure that all communities have access to qualified healthcare professionals and resources. Families can support their loved ones' well-being by creating a healthy living environment at home and assisting them in their healthcare needs. Healthcare providers can create a compassionate and supportive healthcare environment for their patients and challenge them to achieve optimal health.",
+    "price": "$199.99",
+    "id": "1"
+  },
+  {
+    "picture": "https://i.ibb.co/23WV2pN/Education.png",
+    "title": "Good education",
+    "category": "Education",
+    "category_bg": "#ffa1a4",
+    "card_bg": "#ffd9da",
+    "text_bg": "#ff444a",
+    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+    "price": "$49.99",
+    "id": "2"
+  },
+  {
+    "picture": "https://i.ibb.co/TKTcWcm/Clothing.png",
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
+    "category_bg": "#bce09f",
+    "card_bg": "#e4f2d8",
+    "text_bg": "#79C23F",
+    "description": "There are many things that can be done to ensure that all people have access to quality clothing. Governments can invest in clothing assistance programs, provide financial support for clothing needs, and make sure that all communities have access to affordable and durable clothing options. Families can support their members' clothing requirements by creating a sustainable and stylish wardrobe at home and helping them find suitable clothing. Clothing manufacturers and retailers can produce high-quality, ethical clothing, ensuring that everyone has access to comfortable and fashionable options.",
+    "price": "$29.99",
+    "id": "3"
+  },
+  {
+    "picture": "https://i.ibb.co/qJpHRBM/Food.png",
+    "title": "Better Food for Everyone",
+    "category": "Food",
+    "category_bg": "#fbb8a3",
+    "card_bg": "#fde2da",
+    "text_bg": "#F87147",
+    "description": "There are many things that can be done to ensure that all people have access to quality food. Governments can invest in public nutrition programs, provide financial assistance for food security, and make sure that all communities have access to fresh and nutritious options. Families can support their children's nutrition by creating a healthy eating environment at home and providing them with balanced meals. Farmers can produce high-quality, sustainable food, ensuring that everyone has access to nourishing and delicious options.",
+    "price": "$14.99",
+    "id": "4"
+  },
+  {
+    "picture": "https://i.ibb.co/qJpHRBM/Food.png",
+    "title": "Better Food for Everyone",
+    "category": "Food",
+    "category_bg": "#fbb8a3",
+    "card_bg": "#fde2da",
+    "text_bg": "#F87147",
+    "description": "There are many things that can be done to ensure that all people have access to quality food. Governments can invest in public nutrition programs, provide financial assistance for food security, and make sure that all communities have access to fresh and nutritious options. Families can support their children's nutrition by creating a healthy eating environment at home and providing them with balanced meals. Farmers can produce high-quality, sustainable food, ensuring that everyone has access to nourishing and delicious options.",
+    "price": "$34.99",
+    "id": "5"
+  },
+  {
+    "picture": "https://i.ibb.co/TKTcWcm/Clothing.png",
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
+    "category_bg": "#bce09f",
+    "card_bg": "#e4f2d8",
+    "text_bg": "#79C23F",
+    "description": "There are many things that can be done to ensure that all people have access to quality clothing. Governments can invest in clothing assistance programs, provide financial support for clothing needs, and make sure that all communities have access to affordable and durable clothing options. Families can support their members' clothing requirements by creating a sustainable and stylish wardrobe at home and helping them find suitable clothing. Clothing manufacturers and retailers can produce high-quality, ethical clothing, ensuring that everyone has access to comfortable and fashionable options.",
+    "price": "$79.99",
+    "id": "6"
+  },
+  {
+    "picture": "https://i.ibb.co/23WV2pN/Education.png",
+    "title": "Good Education",
+    "category": "Education",
+    "category_bg": "#ffa1a4",
+    "card_bg": "#ffd9da",
+    "text_bg": "#FF444A",
+    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+    "price": "$24.99",
+    "id": "7"
+  },
+  {
+    "picture": "https://i.ibb.co/GWjRN6d/Health.png",
+    "title": "Clean water for children",
+    "category": "Health",
+    "category_bg": "#7fa8ff",
+    "card_bg": "#ccdcff",
+    "text_bg": "#0052ff",
+    "description": "There are many things that can be done to ensure that all people have access to quality healthcare. Governments can invest in public health systems, provide financial assistance for medical expenses, and make sure that all communities have access to qualified healthcare professionals and resources. Families can support their loved ones' well-being by creating a healthy living environment at home and assisting them in their healthcare needs. Healthcare providers can create a compassionate and supportive healthcare environment for their patients and challenge them to achieve optimal health.",
+    "price": "$149.99",
+    "id": "8"
+  },
+  {
+    "picture": "https://i.ibb.co/GWjRN6d/Health.png",
+    "title": "Clean water for children",
+    "category": "Health",
+    "category_bg": "#7fa8ff",
+    "card_bg": "#ccdcff",
+    "text_bg": "#0052ff",
+    "description": "There are many things that can be done to ensure that all people have access to quality healthcare. Governments can invest in public health systems, provide financial assistance for medical expenses, and make sure that all communities have access to qualified healthcare professionals and resources. Families can support their loved ones' well-being by creating a healthy living environment at home and assisting them in their healthcare needs. Healthcare providers can create a compassionate and supportive healthcare environment for their patients and challenge them to achieve optimal health.",
+    "price": "$69.99",
+    "id": "9"
+  },
+  {
+    "picture": "https://i.ibb.co/23WV2pN/Education.png",
+    "title": "Good education",
+    "category": "Education",
+    "category_bg": "#ffa1a4",
+    "card_bg": "#ffd9da",
+    "text_bg": "#FF444A",
+    "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+    "price": "$39.99",
+    "id": "10"
+  },
+  {
+    "picture": "https://i.ibb.co/TKTcWcm/Clothing.png",
+    "title": "Used Clothing Drive",
+    "category": "Clothing",
+    "category_bg": "#bce09f",
+    "card_bg": "#e4f2d8",
+    "text_bg": "#79C23F",
+    "description": "There are many things that can be done to ensure that all people have access to quality clothing. Governments can invest in clothing assistance programs, provide financial support for clothing needs, and make sure that all communities have access to affordable and durable clothing options. Families can support their members' clothing requirements by creating a sustainable and stylish wardrobe at home and helping them find suitable clothing. Clothing manufacturers and retailers can produce high-quality, ethical clothing, ensuring that everyone has access to comfortable and fashionable options.",
+    "price": "$19.99",
+    "id": "11"
+  },
+  {
+    "picture": "https://i.ibb.co/qJpHRBM/Food.png",
+    "title": "Better Food for Everyone",
+    "category": "Food",
+    "category_bg": "#fbb8a3",
+    "card_bg": "#fde2da",
+    "text_bg": "#F87147",
+    "description": "There are many things that can be done to ensure that all people have access to quality food. Governments can invest in public nutrition programs, provide financial assistance for food security, and make sure that all communities have access to fresh and nutritious options. Families can support their children's nutrition by creating a healthy eating environment at home and providing them with balanced meals. Farmers can produce high-quality, sustainable food, ensuring that everyone has access to nourishing and delicious options.",
+    "price": "$49.99",
+    "id": "12"
+  }
+]
